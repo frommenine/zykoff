@@ -12,8 +12,8 @@ My name is Maxim 'yanki' and i program telegram bots.
 
 <h1><img src="assets/mona-loading.gif" width="40" height="40"> VSCode theme, font, setup </h1>
 
-## Theme: [Github (Dark Default)](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-## Font: [Jetbrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
+# Theme: [Github (Dark Default)](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+# Font: [Jetbrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
 
-## Setup: MacBook Pro (13-inch, M1, 2020)
-## Mouse: Macbook Trackpad & Magic mouse 2 dark
+# Setup: MacBook Pro (13-inch, M1, 2020)
+# Mouse: Macbook Trackpad & Magic mouse 2 dark
