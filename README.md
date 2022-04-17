@@ -1,6 +1,6 @@
 <h1><img src="assets/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
-My name is Maxim 'yanki' and i program telegram bots.
+My name is Maxim 'yanki'.
 
 <h1><img src="assets/octocat-squid.gif" width="40" height="40"> Language & Tools</h1>
 
