@@ -4,10 +4,10 @@ My name is Maxim 'yanki'.
 
 <h1><img src="assets/octocat-squid.gif" width="40" height="40"> Language & Tools</h1>
 
-![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=ffffff&color=0969da)
-![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=ffffff&color=007D7D)
+![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D25)
+![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=ffffff&color=0E57A7)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=ffffff&color=F7E01D)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=ffffff&color=bc4420)
 
 
 <h1><img src="assets/mona-loading.gif" width="40" height="40"> VSCode theme, font, setup </h1>
