@@ -1,0 +1,22 @@
+﻿@font-face {
+  font-family: Rubik;
+  src: url(../media/Rubik-ExtraBold.5fa6e69d.ttf);
+}
+@font-face {
+  font-family: Hubballi;
+  src: url(../media/Hubballi-Regular.e4909868.ttf);
+}
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+* {
+  box-sizing: border-box;
+}
